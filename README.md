@@ -21,7 +21,7 @@ The root of each page, e.g. `https://wiki.reducedlens.org/wiki/Guide:Start_your_
 
 **Please note that links on pages in the archive might not always work, you will likely have to go back to the folder containing .html files to change the page you are on.**
 
-Javascript also does not work. Searching the .html source file of the page in a text editor might provide the information you want if rendering the web page itself doesn't work. This is mainly for text dropdown boxes.
+Not everything will work correctly like it did on the original website. For example, Javascript does not work. Searching the .html source file of the page in a text editor might provide the information you want if rendering the web page itself doesn't work. This is mainly for text dropdown boxes.
 
 ## Why was the live version of the website taken down?
 The Reduced Lens Wiki was a fork of [EndMyopia Wiki](https://wiki.endmyopia.org/wiki/EndMyopia_Wiki). EndMyopia Wiki was created 18 May 2020, and the Reduced Lens Wiki was forked on 14 May 2023.
