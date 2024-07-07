@@ -7,7 +7,7 @@ You should just go to https://wiki.endmyopia.org/wiki/EndMyopia_Wiki if you can'
 However keep in mind that the Reduced Lens Wiki was quite literally created in response to Jake Steiner, the owner of Endmyopia, paywalling the previously free EndMyopia Wiki, which was a community created project made by pretty much everyone except him. If the above link no longer works, then either using the [Wayback Machine](https://archive.org/) *or* using this repository with the archived files will be the best way to read the content again.
 
 ## How to use the archive
-**To download the archive as a zip file, look above for the green `<> Code` button above, click it and select Download ZIP.** Then extract the file.
+**To download the archive as a zip file, look above for the green `<> Code` button above, click it and select Download ZIP.** Then extract the file using [7-Zip](https://www.7-zip.org/) (recommended) or another zip archive program like [WinRAR](https://www.win-rar.com/start.html?&L=0). **Using the default Windows unzip program won't work due to the file names of some files.**
 
 Everything you need is basically in the following folder:
 
